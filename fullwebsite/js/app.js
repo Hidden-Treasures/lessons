@@ -16,5 +16,6 @@ navBtn.addEventListener("click", () => {
 // navbar ends
 
 // footer
-const date = getElement("#date")
+const date = getElement("#date");
+
 // end of footer
